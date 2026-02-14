@@ -224,7 +224,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 }
 
     .team-card {
-    padding: 32px 0;
+    padding: 32px 16px;
     text-align: center;
 
     }
@@ -315,8 +315,8 @@ margin-bottom: 72px;
 }
  .footer-logo {
     display: inline-block;
-margin-bottom: 16px;
  }
+ 
 .footer-text {
     max-width: 264px;
     font-weight: 400;
